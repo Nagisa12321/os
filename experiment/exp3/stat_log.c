@@ -70,7 +70,7 @@ int main(int argc, char const *argv[]) {
     return 0;
 }
 
-void dealWithProcess(int pid, char state, int time_peaces, struct running_task * tasks) {
+void dealWithProcess(int pid, char state, int time_peaces, struct running_task *tasks ) {
     if (pid < 12 || pid > 15) return;
 
     switch (state) {

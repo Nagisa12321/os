@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "D:\\theCode\\Myalgs"
+		},
+		{
+			"path": "D:\\theCode\\LeetCode"
+		},
+		{
+			"path": "D:\\theCode\\interesting"
+		},
+		{
+			"path": "..\\..\\web实验"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
