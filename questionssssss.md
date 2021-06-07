@@ -15,3 +15,5 @@ for(p = &LAST_TASK ; p > &FIRST_TASK ; --p) {
 3. wait是当有一个子进程结束就直接结束吗? 
 
 4. 执行./hallo为什么有两个进程create? 
+
+5. switch_to的ecx是什么？ 
